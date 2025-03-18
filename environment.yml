@@ -1,0 +1,19 @@
+name: dsci532-shiny
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base
+  - r-shiny
+  - r-tidyverse
+  - r-dt
+  - r-plotly  # Added plotly for interactive charts
+  - r-readr
+  - r-ggplot2
+  - r-dplyr
+  - r-tidyr
+  - r-forcats
+  - r-stringr
+  - r-lubridate
+  - r-purrr
+  - r-tibble
