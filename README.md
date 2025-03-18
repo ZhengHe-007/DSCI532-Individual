@@ -29,7 +29,7 @@ conda activate icu-bed-dashboard
 ```
 **3. Run the App**
 ```
-shiny::runApp("src/app.R")
+Rscript -e "shiny::runApp('src/app.R', launch.browser = TRUE)"
 ```
 ## **Acknowledgments**
 
