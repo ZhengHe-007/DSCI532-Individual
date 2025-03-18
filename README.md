@@ -13,11 +13,19 @@ This Shiny app provides interactive data visualizations to explore ICU bed avail
 ## **Installation & Setup**
 
 **1. Clone the Repository**
-
+```
+git clone https://github.com/your-repo/icu-bed-dashboard.git
+cd icu-bed-dashboard
+```
 **2. Create and Activate the Conda Environment**
-
+```
+conda env create -f environment.yml
+conda activate icu-bed-dashboard
+```
 **3. Run the App**
-
+```
+shiny::runApp("src/app.R")
+```
 ## **Acknowledgments**
 
 This dashboard was designed for hospital administrators and healthcare planners to support decision-making in ICU capacity management.
