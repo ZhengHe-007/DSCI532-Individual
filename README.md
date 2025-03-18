@@ -34,3 +34,5 @@ Rscript -e "shiny::runApp('src/app.R', launch.browser = TRUE)"
 ## **Acknowledgments**
 
 This dashboard was designed for hospital administrators and healthcare planners to support decision-making in ICU capacity management.
+
+Data Source: https://www.kaggle.com/datasets/mrmorj/hospital-bed-capacity-and-covid19/data
