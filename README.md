@@ -10,6 +10,11 @@ Managing ICU bed capacity is critical for hospitals, especially during high-dema
 
 This Shiny app provides interactive data visualizations to explore ICU bed availability and demand projections across different HRR regions.
 
+Click the link below to watch the demo video:
+
+▶️ [Watch the Demo Video](https://github.com/ZhengHe-007/DSCI532-Individual/raw/main/img/demo.mp4)
+
+
 ## **Installation & Setup**
 
 **1. Clone the Repository**
